@@ -10,7 +10,7 @@ displayed in a **RecyclerView** and the other one in a **Spinner**. A **Floating
 This serves as an example of these features.
 
 ## Entity Relationship Model
-
+![Cleaning Plan ERD](cleaning_plan_erd.png)
 
 ## Features
 The setting for this example is a cleaning plan application that can be used to assign different tasks to certain rommates in an apartment. 
