@@ -16,7 +16,11 @@ This serves as an example of these features.
 The setting for this example is a cleaning plan application that can be used to assign different tasks to certain rommates in an apartment. 
 Those tasks get displayed in the RecyclerView list on the first screen. The user can add new tasks via the Floating Action Button which leads to a new screen.
 Adding a tasks requires a description and a roommate who is responsible. The user chooses a roomate from the Spinner. A menu option in the Toolbar of the first screen
-allows to add new roommates to the apartment or remove existing ones. This menu option also leads to a new screen. 
+allows to add new roommates to the apartment or remove existing ones. This menu option also leads to a new screen. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
